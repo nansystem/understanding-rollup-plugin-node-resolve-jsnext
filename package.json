@@ -1,0 +1,23 @@
+{
+  "name": "understanding-rollup-plugin-node-resolve-jsnext",
+  "version": "1.0.0",
+  "description": "To understand jsnext with rollup.",
+  "main": "index.js",
+  "jsnext:main": "index-jsnext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nansystem/understanding-rollup-plugin-node-resolve-jsnext.git"
+  },
+  "keywords": [
+    "rollup"
+  ],
+  "author": "nansystem <sato171786@gmail.com> (http://nansystem.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nansystem/understanding-rollup-plugin-node-resolve-jsnext/issues"
+  },
+  "homepage": "https://github.com/nansystem/understanding-rollup-plugin-node-resolve-jsnext#readme"
+}
